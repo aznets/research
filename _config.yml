@@ -1,5 +1,5 @@
 title: aznets
-description: Machine Learning
+description: Research
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
@@ -8,4 +8,6 @@ github:
   owner_url: https://aznets.github.io/
   ml_url: https://aznets.github.io/ml/
   dl_url: https://aznets.github.io/dl/
+  radiomics_url: https://aznets.github.io/radiomics/
+  research_url: https://aznets.github.io/research/
  
